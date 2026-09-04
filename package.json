@@ -1,0 +1,17 @@
+{
+  "name": "drawscape-logo",
+  "description": "Deterministic woven geometric logo generator with SVG and PNG output.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "scripts": {
+    "generate": "node generate.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "polygon-clipping": "0.15.7",
+    "sharp": "0.35.4"
+  }
+}

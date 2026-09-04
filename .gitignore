@@ -1,0 +1,27 @@
+node_modules/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.npmrc
+
+# OS, editor, and runtime files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+*.tmp
+*.swp
+coverage/
+.nyc_output/
+
+# Keep the default examples available in the public README.
+/output/*
+!/output/logo-generated.svg
+!/output/logo-generated.png
+
+/logo.svg
