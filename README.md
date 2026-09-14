@@ -12,6 +12,10 @@
 
 Select any preview to open its SVG source.
 
+## Attribution
+
+This design is a reconstruction of Julien Espagnon's artwork [Impossible Shape](https://plotterfiles.com/artwork/impossible-shape-c4ec2e74).
+
 ## Run
 
 Requires Node.js 20.9 or later.
@@ -57,7 +61,3 @@ npm test
 ## License
 
 This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
-
-## Attribution
-
-This design is a reconstruction of Julien Espagnon's artwork [Impossible Shape](https://plotterfiles.com/artwork/impossible-shape-c4ec2e74).
