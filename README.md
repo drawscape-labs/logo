@@ -1,4 +1,4 @@
-# Drawscape Logo Generator
+# Drawscape Logo
 
 ![Generated Drawscape logo](output/logo-generated.png)
 
