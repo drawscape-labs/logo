@@ -4,6 +4,8 @@
 
 Create a woven logo as SVG and PNG. The same settings always produce the same image.
 
+This design is a reconstruction of [Impossible Shape](https://plotterfiles.com/artwork/impossible-shape-c4ec2e74) by Julien Espagnon.
+
 ## Run
 
 Requires Node.js 20.9 or later.
