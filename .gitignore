@@ -23,5 +23,7 @@ coverage/
 /output/*
 !/output/logo-generated.svg
 !/output/logo-generated.png
+!/output/logo-count-*.svg
+!/output/logo-count-*.png
 
 /logo.svg

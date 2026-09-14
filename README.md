@@ -6,6 +6,16 @@ Create a woven logo as SVG and PNG. The same settings always produce the same im
 
 This design is a reconstruction of [Impossible Shape](https://plotterfiles.com/artwork/impossible-shape-c4ec2e74) by Julien Espagnon.
 
+## Count variations
+
+| 50 profiles | 100 profiles |
+| --- | --- |
+| [![Drawscape logo with 50 profiles](output/logo-count-050.png)](output/logo-count-050.svg) | [![Drawscape logo with 100 profiles](output/logo-count-100.png)](output/logo-count-100.svg) |
+| 150 profiles | 200 profiles |
+| [![Drawscape logo with 150 profiles](output/logo-count-150.png)](output/logo-count-150.svg) | [![Drawscape logo with 200 profiles](output/logo-count-200.png)](output/logo-count-200.svg) |
+
+Select any preview to open its SVG source.
+
 ## Run
 
 Requires Node.js 20.9 or later.
