@@ -2,10 +2,6 @@
 
 ![Generated Drawscape logo](output/logo-generated.png)
 
-Create a woven logo as SVG and PNG. The same settings always produce the same image.
-
-This design is a reconstruction of [Impossible Shape](https://plotterfiles.com/artwork/impossible-shape-c4ec2e74) by Julien Espagnon.
-
 ## Count variations
 
 | 50 profiles | 100 profiles |
@@ -57,3 +53,11 @@ Run `node generate.js --help` for all options.
 ```sh
 npm test
 ```
+
+## License
+
+This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
+
+## Attribution
+
+This design is a reconstruction of Julien Espagnon's artwork [Impossible Shape](https://plotterfiles.com/artwork/impossible-shape-c4ec2e74).
