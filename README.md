@@ -10,8 +10,6 @@
 | 150 profiles | 200 profiles |
 | [![Drawscape logo with 150 profiles](output/logo-count-150.png)](output/logo-count-150.svg) | [![Drawscape logo with 200 profiles](output/logo-count-200.png)](output/logo-count-200.svg) |
 
-Select any preview to open its SVG source.
-
 ## Attribution
 
 This design is a reconstruction of Julien Espagnon's artwork [Impossible Shape](https://plotterfiles.com/artwork/impossible-shape-c4ec2e74).
@@ -21,7 +19,7 @@ This design is a reconstruction of Julien Espagnon's artwork [Impossible Shape](
 Requires Node.js 20.9 or later.
 
 ```sh
-npm ci
+npm install
 npm run generate
 ```
 
