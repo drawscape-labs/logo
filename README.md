@@ -2,19 +2,19 @@
 
 ![Generated Drawscape logo](output/logo/logo-generated.png)
 
-## Lora type studies
+## Font examples
+
+### Primary — Lora
 
 | Regular | Italic | Semibold |
 | --- | --- | --- |
 | ![Drawscape in Lora Regular](output/font/drawscape-lora-regular.svg) | ![Drawscape in Lora Italic](output/font/drawscape-lora-italic.svg) | ![Drawscape in Lora Semibold](output/font/drawscape-lora-semibold.svg) |
 
-The editable specimen uses the requested declaration:
-
 ```css
 font-family: "Lora", serif;
 ```
 
-### Inter Variable
+### Secondary — Inter Variable
 
 | Regular | Italic | Semibold |
 | --- | --- | --- |
@@ -49,6 +49,9 @@ Files are saved in `output/`:
 
 - `logo/logo-generated.svg`: 300 x 300 mm.
 - `logo/logo-generated.png`: 1800 x 1800 pixels, white background.
+- `font/drawscape-lora-*.svg`: Lora wordmark examples.
+- `font/drawscape-inter-*.svg`: Inter Variable website-address examples.
+- `font/InterVariable*.woff2`: bundled website fonts used by the Inter SVGs.
 
 Each run replaces these files.
 

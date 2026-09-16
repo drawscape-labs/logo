@@ -19,11 +19,13 @@ Thumbs.db
 coverage/
 .nyc_output/
 
-# Keep the default examples available in the public README.
+# Keep the generated examples used by the public README.
 /output/*
-!/output/logo-generated.svg
-!/output/logo-generated.png
-!/output/logo-count-*.svg
-!/output/logo-count-*.png
+!/output/logo/
+!/output/font/
+!/output/logo/*.svg
+!/output/logo/*.png
+!/output/font/*.svg
+!/output/font/*.woff2
 
 /logo.svg
